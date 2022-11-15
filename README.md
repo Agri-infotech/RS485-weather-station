@@ -48,7 +48,7 @@
 ## Flash โปรแกรมลง ESP32
 1. เข้าเมนู Tools เลือกบอร์ด DOIT ESP32 DEVKIT V1
 2. เลือกพอร์ต
-3. ดาวน์โหลดโค๊ดโปรแกรม https://github.com/imiconsystem/ready2u-wind-direction/releases
+3. ดาวน์โหลดโค๊ดโปรแกรม https://github.com/imiconsystem/ready2u-rs485-weather-station/releases
 4. เปิดไฟล์ ready2u-wind-direction.ino
 5. อัพโหลดไฟล์
 6. กดปุ่ม En บน Esp32 เพื่อเริ่มต้นใช้งาน
