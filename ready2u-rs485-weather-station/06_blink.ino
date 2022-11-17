@@ -1,8 +1,8 @@
 void blinkSetup() {
-  pinMode(LED_BUILTIN, OUTPUT);
+  pinMode(2, OUTPUT);
 }
 void blinkEnd() {
-  pinMode(LED_BUILTIN, INPUT);
+  pinMode(2, INPUT);
 }
 void blinkSet() {
   blinkSetup();
